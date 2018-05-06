@@ -25,10 +25,23 @@ Untuk mengecek apakah service telah berjalan, pada Display port katacoda isi den
 
 ![Hasil output2()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/4.jpg)
 
-Langkah ketiga, lakukan editing file index.html di salah satu pods. Berikut prosesnya :
+Langkah ketiga, lakukan editing file index.html di salah satu pods nginx-697d4d67f9-m9s9d. Berikut prosesnya :
 
 ![Hasil proses1()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/5.jpg)
 
 ![Hasil proses2()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/6.jpg)
 
 ![Hasil proses3()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/7.jpg)
+
+Langkah keempat, untuk membuktikan data file index.html yang telah diedit bersifat stateless. Lakukan delete terhadap pods nginx-697d4d67f9-m9s9d dengan perintah 
+
+``` kubectl delete pods nginx-697d4d67f9-m9s9d ```
+
+![Hasil delete()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/8.jpg)
+
+Kubernetes secara otomatis akan membuat pods yang baru setiap dilakukan penghapusan terhadap salah satu pods. Berikut merupakan pods yang baru terbentuk 
+
+![Hasil baru()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/9.jpg)
+
+
+
