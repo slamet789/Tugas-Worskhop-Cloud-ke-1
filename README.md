@@ -43,7 +43,7 @@ Kubernetes secara otomatis akan membuat pods yang baru setiap dilakukan penghapu
 
 ![Hasil baru()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/9.jpg)
 
-Data file index.html yang tersimpan di pod nginx-697d4d67f9-m9s9d secara otomatis akan terhapus dan digantikan data file index.html yang yang ada di pod nginx-697d4d67f9-j6zrz (pod yang baru terbentuk). Berikut merupakan pengecekan dan tampilan outputnya
+Data file index.html yang tersimpan di pod nginx-697d4d67f9-m9s9d secara otomatis akan terhapus dan digantikan data file index.html yang ada di pod nginx-697d4d67f9-j6zrz (pod yang baru terbentuk). Berikut merupakan pengecekan dan tampilan outputnya
 
 ![Hasil cek()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/10.jpg)
 
