@@ -1,6 +1,8 @@
 # Tugas Worskhop Cloud ke 1
 Tentang Deployment Stateless App Menggunakan Kubernetes
 
+Aplikasi yang bersifat stateless adalah sebuah aplikasi dimana sistem tersebut tidak menyimpan state dari user untuk request selanjutnya contohnya adalah aplikasi halaman landing page sebuah website, sementara aplikasi yang bersifat stateful adalah sebuah aplikasi yang menyimpan data dari setiap request yang diminta oleh user. Dan stateful application umumnya membutuhkan storage untuk menyimpan data dari user. 
+
 Langkah pertama proses deployment yaitu buat file nginx.yml dan service.yml, kemudian create deployment di kubernetes dengan perintah:
 
 ``` kubectl create -f nginx.yml ```
