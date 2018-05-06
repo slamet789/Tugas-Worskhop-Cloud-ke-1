@@ -24,3 +24,11 @@ Untuk mengecek apakah service telah berjalan, pada Display port katacoda isi den
 ![Hasil output1()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/3.jpg)
 
 ![Hasil output2()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/4.jpg)
+
+Langkah ketiga, lakukan editing file index.html di salah satu pods. Berikut prosesnya :
+
+![Hasil proses1()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/5.jpg)
+
+![Hasil proses2()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/6.jpg)
+
+![Hasil proses3()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/7.jpg)
