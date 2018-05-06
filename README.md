@@ -18,3 +18,9 @@ Langkah kedua, create service di kubernetes dengan perintah :
 maka akan terbentuk service baru
 
 ![Hasil service()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/2.jpg)
+
+Untuk mengecek apakah service telah berjalan, pada Display port katacoda isi dengan port 30562. Berikut merupakan output tampilannya :
+
+![Hasil output1()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/3.jpg)
+
+![Hasil output2()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/4.jpg)
