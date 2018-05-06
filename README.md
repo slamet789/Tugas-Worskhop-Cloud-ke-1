@@ -8,4 +8,5 @@ Langkah pertama proses deployment yaitu buat file nginx.yml dan service.yml, kem
 Setelah proses create, maka akan terbentuk 2 buah pods. Untuk mengeceknya dengan perintah :
 
 ``` kubectl get pods ```
+
 ![Hasil pods()](https://github.com/slamet789/Tugas-Worskhop-Cloud-ke-1/blob/master/1.jpg)
